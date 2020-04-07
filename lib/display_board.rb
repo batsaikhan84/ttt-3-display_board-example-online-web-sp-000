@@ -1,4 +1,4 @@
-def ddisplay_board
+def display_board
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
